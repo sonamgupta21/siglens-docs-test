@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'SigLens Docs',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'SigLens is an Open Source Observability solution that is 100x more efficient than Splunk, Elastic.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
