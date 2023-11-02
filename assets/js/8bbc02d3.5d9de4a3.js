@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksiglens_docs=self.webpackChunksiglens_docs||[]).push([[9234],{2445:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/siglens-docs/blog/tags/hola","allTagsPath":"/siglens-docs/blog/tags","count":1,"unlisted":false}')}}]);
